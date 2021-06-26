@@ -78,11 +78,11 @@ body {
   text-decoration: none;
   background: #dbedfc;
   color: #6f8391;
-  padding: 11px 20px;
+  padding: 12px 2px;
 }
 
 .topNav-a:hover {
-  font-size: 1.1rem;
+  transform: scale(1.1);
   color: #53b3f8;
   border-bottom: 2px solid #52616b;
 }
@@ -231,6 +231,10 @@ body {
     width: 40%;
   }
 
+  .topNav-a {
+    padding: 13px 2px;
+  }
+
   #navbar {
     width: 210px;
   }
@@ -248,6 +252,10 @@ body {
 
   .topNav-ul {
     width: 50%;
+  }
+
+  .topNav-a {
+    padding: 15px 2px;
   }
 
   #navbar {
@@ -288,7 +296,7 @@ body {
   }
 
   .topNav-a {
-    padding: 16px 10px;
+    padding: 17px 2px;
   }
 
   #navbar {
@@ -338,7 +346,7 @@ body {
   }
   
   .topNav-a {
-    padding: 17px 20px;
+    padding: 17px 2px;
   }
   
   #navbar {
